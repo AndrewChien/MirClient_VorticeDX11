@@ -1,0 +1,7 @@
+*.log
+*.tmp
+**/bin/
+**/obj/
+**/Build/
+Build/
+备份/
